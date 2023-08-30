@@ -387,9 +387,9 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user dikitubis9@gmail.com
-from dikitubis9@gmail.com
-password rizki12345
+user candravpnz@gmail.com
+from candravpnz@gmail.com
+password Candra230303
 logfile ~/.msmtp.log
 EOF
 
