@@ -7,12 +7,12 @@ apt install jq curl -y
 clear
 
 read -rp "Sub Domain (Contoh: udin123): " -e sub
-DOMAIN=aingdev.me
+DOMAIN=storespremium.biz.id
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.aingdev.me
-CF_ID=muhamadhaisyamkhairizmi@gmail.com
-CF_KEY=1bd1fdfcd2df775f9768e5601d539538dcf2d
-echo "aingdev.me" > /root/domain
+SUB_DOMAIN=${sub}.storespremium.biz.id
+CF_ID=irawancandra6699@gmail.com
+CF_KEY=b07ea594ebc844a5d9db4a88fbdb09d9a7170
+echo "storespremium.biz.id" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
 set -euo pipefail
