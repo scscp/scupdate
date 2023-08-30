@@ -1,10 +1,10 @@
 - Jika mendapatkan error pada servis dalam jangka panjang, bisa restart servis yang dead.
 
 ### INSTALL SCRIPT 1
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/kenDevXD/scupdate/jurig/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/scscp/scupdate/jurig/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/kenDevXD/scupdate/jurig/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/scscp/scupdate/jurig/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -52,4 +52,4 @@
 ### Lisensi
 Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 
-BY: AIXXY7
+
